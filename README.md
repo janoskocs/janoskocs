@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Janos :)</h1>
+<h1 align="center">Hi 👋, I'm János :)</h1>
 <h3 align="center">I am a full stack software engineer dedicated to creating responsive and user-friendly web apps.</h3>
 
 - 🌱 I’m currently learning **TypeScript, and testing**
