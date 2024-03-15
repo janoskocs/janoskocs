@@ -7,6 +7,9 @@ Oh, I also blog about code and I enjoy writing technical tutorials!📖
 Portfolio: https://janoskocs.com
 Blog: https://dev.to/janoskocs
 LinkedIn: https://www.linkedin.com/in/janoskocs
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=janoskocs)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
