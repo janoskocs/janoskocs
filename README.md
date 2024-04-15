@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm János :)</h1>
-<p>I’m a full stack developer working with JavaScript, TypeScript, React, Node, SQL and MongoDB. My current interests are: AWS, nginx, CI/CD, and testing with Jest and Vitest. I’m currently taking the Cybersecurity course at BrainStation to make my apps super secure! 🔐
+<p>I’m a full stack developer working with JavaScript, TypeScript, React, Node, SQL and MongoDB. My current interests are: AWS, nginx, CI/CD, and testing with Jest and Vitest.
 
 I’m driven by that “wow, you built that?” and the belief that I can make a real impact with software.
 Oh, I also blog about code and I enjoy writing technical tutorials!📖
 
 Portfolio: https://janoskocs.com
 Blog: https://dev.to/janoskocs
+Blog: https://thinkbit.dev
 LinkedIn: https://www.linkedin.com/in/janoskocs
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=janoskocs)](https://github.com/anuraghazra/github-readme-stats)
