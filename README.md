@@ -8,6 +8,7 @@ Portfolio: https://janoskocs.com
 Blog: https://dev.to/janoskocs
 Blog: https://thinkbit.dev
 LinkedIn: https://www.linkedin.com/in/janoskocs
+YouTube: https://www.youtube.com/channel/UCi-42JN6LjOOBLp8e-ODR0Q
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=janoskocs)](https://github.com/anuraghazra/github-readme-stats)
 
