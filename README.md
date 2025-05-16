@@ -1,5 +1,5 @@
 <h1>Hi, I'm János 👋</h1>
-<p>I’m a full stack developer working with JavaScript, TypeScript, React, Node, SQL and MongoDB. 
+<p>I’m a full stack developer working with **JavaScript**, **TypeScript**, **React**, **Node**, **SQL** and **MongoDB.** 
   
 My current interests are: AWS, nginx, CI/CD, and testing with Jest and Vitest.
 
